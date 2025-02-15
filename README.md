@@ -1,8 +1,4 @@
-# 🤖 ChatGPT AI Chatbot – Kotlin Android App 🚀
-
-This is a **Kotlin Android application** built in **Android Studio**, leveraging **OpenAI's ChatGPT API** to provide an **AI-powered chatbot experience**. With a **perfectly designed UI/UX**, users can **input prompts** and receive **intelligent responses** in real time.
-﻿
-# 🤖 ChatGPT AI Chatbot – Kotlin Android App 🚀
+﻿# 🤖 ChatGPT AI Chatbot – Kotlin Android App 🚀
 
 This is a **Kotlin Android application** built in **Android Studio**, leveraging **OpenAI's ChatGPT API** to provide an **AI-powered chatbot experience**. With a **perfectly designed UI/UX**, users can **input prompts** and receive **intelligent responses** in real time.
 
